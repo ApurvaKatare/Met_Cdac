@@ -1,1 +1,4 @@
 hello everyone....
+this is second line in file
+we have already committed the changes 5 min before
+next changes will be be saved after committ
